@@ -13,9 +13,15 @@
 
 <body>
   <div class="bg">
-    <p>Home</p>
-    <p>About</p>
-    <p>Categories</p>
+    <a href="index.php">
+      <p>Home</p>
+    </a>
+    <a href="./categoryPage.php">
+      <p>Categories</p>
+    </a>
+    <a href="./aboutPage.php">
+      <p>Aboutus</p>
+    </a>
     <p>Privacy</p>
     <p>Return Policy</p>
     <p>Bussiness With Us</p>
@@ -24,7 +30,10 @@
   </div>
   <nav class="navigation">
     <div>
-      <h3 class="logo">4U2C</h3>
+      <a href="index.php">
+
+        <h3 class="logo text-black">4U2C</h3>
+      </a>
       <div class="searchcontainer">
         <input type="text" placeholder="Search in store" />
         <span><i class="fa-solid fa-magnifying-glass text-white"></i></span>
@@ -32,8 +41,3 @@
       <div class="carticon"><i class="fa-solid fa-cart-shopping"></i></div>
     </div>
   </nav>
-  <?php
-  include('./carousel.php');
-  include('./category.php');
-  include('./product.php');
-  ?>
