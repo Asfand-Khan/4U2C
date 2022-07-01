@@ -8,9 +8,9 @@
         </div>
         <div class="cat-body">
             <div class="row g-1">
-                <div class="col-lg-2 col-md-4 col-6 product-col">
+                <div class="col-lg-2 col-md-4 col-6">
                     <a href="#">
-                        <div class="card p-2">
+                        <div class="card p-2" id="prodcol">
                             <div class="tag-container">
                                 <tag>Sale</tag>
                             </div>
@@ -25,7 +25,7 @@
                 </div>
                 <div class="col-lg-2 col-md-4 col-6">
                     <a href="#">
-                        <div class="card p-2">
+                        <div class="card p-2" id="prodcol">
                             <div class="tag-container">
                                 <tag>out of stock</tag>
                             </div>
@@ -40,7 +40,7 @@
                 </div>
                 <div class="col-lg-2 col-md-4 col-6">
                     <a href="#">
-                        <div class="card p-2">
+                        <div class="card p-2" id="prodcol">
                             <div class="tag-container">
                                 <tag>Sale</tag>
                             </div>
@@ -55,7 +55,7 @@
                 </div>
                 <div class="col-lg-2 col-md-4 col-6">
                     <a href="#">
-                        <div class="card p-2">
+                        <div class="card p-2" id="prodcol">
                             <div class="tag-container">
                                 <tag>Sale</tag>
                             </div>
@@ -70,7 +70,7 @@
                 </div>
                 <div class="col-lg-2 col-md-4 col-6">
                     <a href="#">
-                        <div class="card p-2">
+                        <div class="card p-2" id="prodcol">
                             <div class="tag-container">
                                 <tag>Sale</tag>
                             </div>
@@ -85,7 +85,7 @@
                 </div>
                 <div class="col-lg-2 col-md-4 col-6">
                     <a href="#">
-                        <div class="card p-2">
+                        <div class="card p-2" id="prodcol">
                             <div class="tag-container">
                                 <tag>Sale</tag>
                             </div>
@@ -100,7 +100,7 @@
                 </div>
                 <div class="col-lg-2 col-md-4 col-6">
                     <a href="#">
-                        <div class="card p-2">
+                        <div class="card p-2" id="prodcol">
                             <div class="tag-container">
                                 <tag>Sale</tag>
                             </div>
@@ -115,7 +115,7 @@
                 </div>
                 <div class="col-lg-2 col-md-4 col-6">
                     <a href="#">
-                        <div class="card p-2">
+                        <div class="card p-2" id="prodcol">
                             <div class="tag-container">
                                 <tag>Sale</tag>
                             </div>
@@ -130,7 +130,7 @@
                 </div>
                 <div class="col-lg-2 col-md-4 col-6">
                     <a href="#">
-                        <div class="card p-2">
+                        <div class="card p-2" id="prodcol">
                             <div class="tag-container">
                                 <tag>Sale</tag>
                             </div>
